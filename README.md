@@ -1,5 +1,56 @@
-# 💫 About Me:
-# 👋 Hi, I'm Christian Errol Purino<br><br>💻 **Junior Web Developer**  <br>🚀 Passionate about building clean, functional, and user-friendly web applications<br><br>---<br><br>## 👨‍💻 About Me<br><br>I'm a junior web developer with a strong focus on **PHP and Laravel**, currently building real-world projects to sharpen my backend and frontend skills. I enjoy turning ideas into working applications and continuously improving my code quality, structure, and performance.<br><br>I’m especially interested in:<br>- Backend development with PHP & Laravel<br>- Building responsive UI with Tailwind CSS<br>- Working with databases and structured data<br>- Learning best practices and modern workflows<br><br>I’m always eager to learn, improve, and collaborate on meaningful projects.<br><br>---<br><br>## 🛠 Tech Stack<br><br>**Backend**<br>- PHP<br>- Laravel<br><br>**Frontend**<br>- HTML<br>- Tailwind CSS<br>- Bootstrap<br>- JavaScript<br><br>**Database**<br>- MySQL<br><br>**Tools & Workflow**<br>- Git & GitHub<br>- VS Code<br>- npm (basic)<br>- RESTful concepts<br><br>---<br><br>## 📂 What I'm Working On<br><br>- Personal portfolio website  <br>- Practice projects using Laravel & PHP  <br>- Improving frontend layouts with Tailwind CSS  <br>- Strengthening backend logic and database design  <br><br>---<br><br>## 📈 Goals<br><br>- Become a confident full-stack web developer  <br>- Build production-ready Laravel applications  <br>- Learn API development and authentication  <br>- Improve JavaScript fundamentals  <br>- Contribute to open-source projects  <br><br>---<br><br>## 📫 Connect With Me<br><br>- 📧 Email: **purinochristian@gmail.com**<br>- 💼 Portfolio: *(add your live portfolio link here)*<br>- 🐙 GitHub: *(you’re already here 😄)*<br><br>---<br><br>> *“Always learning, always building.”*<br>
+## About Me
+
+👋 Hi, I'm **Christian Errol Purino**  
+💻 Junior Web Developer  
+🚀 I build clean, functional, and user-friendly web applications
+
+---
+
+### 👨‍💻 Profile
+
+Junior web developer focused on **PHP and Laravel**, actively building projects to strengthen both backend and frontend skills. I enjoy turning ideas into working solutions while improving code quality, structure, and performance.
+
+**Interests**
+- Backend development with PHP & Laravel
+- Responsive UI using Tailwind CSS
+- Database-driven applications
+- Modern development workflows
+
+---
+
+### 🛠 Tech Stack
+
+**Backend:** PHP, Laravel  
+**Frontend:** HTML, Tailwind CSS, Bootstrap, JavaScript  
+**Database:** MySQL  
+**Tools:** Git, GitHub, VS Code, npm (basic), REST concepts
+
+---
+
+### 📂 Currently Working On
+
+- Personal portfolio website  
+- Laravel & PHP practice projects  
+- UI improvements with Tailwind CSS  
+- Backend logic and database design
+
+---
+
+### 📈 Goals
+
+- Grow into a confident full-stack developer  
+- Build production-ready Laravel apps  
+- Contribute to open source
+
+---
+
+### 📫 Contact
+
+- 📧 **purinochristian@gmail.com**  
+- 💼 Portfolio: errolpurino.ct.ws  
+
+
+
 
 
 ## 🌐 Socials:
