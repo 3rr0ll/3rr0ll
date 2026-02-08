@@ -47,7 +47,7 @@ Junior web developer focused on **PHP and Laravel**, actively building projects 
 ### 📫 Contact
 
 - 📧 **purinochristian@gmail.com**  
-- 💼 Portfolio: errolpurino.ct.ws  
+- 💼 Portfolio: https://errolpurino.ct.ws
 
 
 
