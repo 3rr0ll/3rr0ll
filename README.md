@@ -1,8 +1,8 @@
 ## About Me
 
 👋 Hi, I'm **Christian Errol Purino**  
-💻 Junior Web Developer  
-🚀 I build clean, functional, and user-friendly web applications
+Junior Web Developer  
+I build clean, functional, and user-friendly web applications
 
 ---
 
