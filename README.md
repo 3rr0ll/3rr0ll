@@ -23,7 +23,7 @@ Junior web developer focused on **PHP and Laravel**, actively building projects 
 **Backend:** PHP, Laravel  
 **Frontend:** HTML, Tailwind CSS, Bootstrap, JavaScript  
 **Database:** MySQL  
-**Tools:** Git, GitHub, VS Code, npm (basic), REST concepts
+**Tools:** Git, GitHub, VS Code, npm, REST concepts
 
 ---
 
